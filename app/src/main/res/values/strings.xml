@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">vk-android-hw2</string>
+    <string name="images_local_storage">.image_local_storage</string>
+    <string name="dogs_api_url">https://random.dog/</string>
+    <string name="error_while_fetching">Oops, error occurred while fetching pictures </string>
+    <string name="btn_retry">Make another try</string>
+</resources>
